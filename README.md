@@ -1,2 +1,2 @@
 # ORCID
-ORCID APY &amp; UNED Cookie
+ORCID API &amp; SSO Cookie
